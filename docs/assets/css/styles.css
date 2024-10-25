@@ -467,6 +467,7 @@ body {
 }
 
 .proyectos {
+  overflow-x: hidden;
   background: #fff;
   font-size: 14px;
   color: #000;
